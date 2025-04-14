@@ -1,0 +1,62 @@
+[
+  {
+    "file": "agent_registry.json",
+    "size": 626,
+    "status": "\u2705",
+    "exec_status": ""
+  },
+  {
+    "file": "agent_status.py",
+    "size": 44,
+    "status": "\u26a0\ufe0f Too Small (44b)",
+    "exec_status": "\u2705 Exec OK"
+  },
+  {
+    "file": "monetization_tags.py",
+    "size": 935,
+    "status": "\u2705",
+    "exec_status": "\u2705 Exec OK"
+  },
+  {
+    "file": "assistant_packager.py",
+    "size": 1242,
+    "status": "\u2705",
+    "exec_status": "\u2705 Exec OK"
+  },
+  {
+    "file": "run_ui.py",
+    "size": 605,
+    "status": "\u2705",
+    "exec_status": "\u274c Exec Fail: Traceback (most recent call last):\n  File \"/mnt/data/audit_v15_prep/run_ui.py\", "
+  },
+  {
+    "file": "version_manifest.json",
+    "size": 250,
+    "status": "\u2705",
+    "exec_status": ""
+  },
+  {
+    "file": "README.md",
+    "size": 95,
+    "status": "\u26a0\ufe0f Too Small (95b)",
+    "exec_status": ""
+  },
+  {
+    "file": "launch_checklist.md",
+    "size": 225,
+    "status": "\u2705",
+    "exec_status": ""
+  },
+  {
+    "file": "tabs/tab_agent_dashboard.py",
+    "size": 1140,
+    "status": "\u274c Placeholder",
+    "exec_status": ""
+  },
+  {
+    "file": "tabs/filter_panel.py",
+    "size": 100,
+    "status": "\u2705",
+    "exec_status": ""
+  }
+]

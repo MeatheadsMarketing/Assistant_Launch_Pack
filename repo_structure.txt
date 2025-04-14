@@ -1,0 +1,106 @@
+.
+├── agent_registry.json
+├── agent_status.py
+├── archives
+│   └── StreamlitSystemAuditor_v1.zip
+├── assistant_packager.py
+├── auth_stub.py
+├── background_runner.py
+├── filter_panel.py
+├── finalize_repo_setup.py
+├── flow_runner.py
+├── level5_audit_report.json
+├── level5_audit_report.md
+├── loop_trigger.py
+├── monetization_tags.py
+├── notion_sync.py
+├── organize_repo_v2.py
+├── organize_repo.py
+├── pricing_tiers.json
+├── README.md
+├── Repo_Structure_SelfTest.md
+├── repo_structure.txt
+├── requirements.txt
+├── session_tracker.py
+├── Streamlit_System_Audit__Tagged_.csv
+├── token_budget.py
+├── token_tracker.py
+├── v1.1
+│   ├── audit
+│   ├── handoffs
+│   ├── idea_log
+│   ├── streamlit_shortcut_system_v1.1.zip
+│   └── tabs
+├── v1.2
+│   ├── Assistant_Launch_Pack_v1.2-final-ready.zip
+│   ├── Assistant_Launch_Pack_v1.2-final-with-README.zip
+│   ├── audit
+│   ├── FileMind_ControlDeck_v1.2-prep.zip
+│   ├── FileMind_Streamlit_Stack_v1.2-complete_final.zip
+│   ├── FileMind_Streamlit_Stack_v1.2-rebuilt_tabs_launcher.zip
+│   ├── FileMind_Streamlit_Stack_v1.2-rebuilt_tabs.zip
+│   ├── handoffs
+│   │   └── Assistant_Launch_Pack_v1.2-with-handoff.zip
+│   ├── idea_log
+│   ├── Streamlit_CoreStack_v1.2-final.zip
+│   ├── Streamlit_CoreStack_v1.2-FinalizationPackage.zip
+│   └── tabs
+├── v1.3
+│   ├── Assistant_Launch_Pack_v1.3-dev_updated.zip
+│   ├── Assistant_Launch_Pack_v1.3-dev.zip
+│   ├── Assistant_Launch_Pack_v1.3-pre-final.zip
+│   ├── Assistant_Launch_Pack_v1.3-prep.zip
+│   ├── audit
+│   │   ├── v1.3_prefinal_audit.json
+│   │   └── v1.3_prefinal_audit.md
+│   ├── handoffs
+│   │   └── v1.3_clarity_handoff.md
+│   ├── idea_log
+│   ├── tabs
+│   └── v1.3_PlanningMatrix.md
+├── v1.4
+│   ├── Assistant_Launch_Pack_v1.4-dev.zip
+│   ├── Assistant_Launch_Pack_v1.4-prep.zip
+│   ├── audit
+│   │   ├── v1.4_pre_dev_audit.json
+│   │   └── v1.4_pre_dev_audit.md
+│   ├── handoffs
+│   │   └── v1.4_clarity_handoff.md
+│   ├── idea_log
+│   ├── tabs
+│   └── v1.4_PlanningMatrix.md
+├── v1.5
+│   ├── Assistant_Launch_Pack_v1.5-dev-dashboard-complete.zip
+│   ├── Assistant_Launch_Pack_v1.5-dev-enhanced.zip
+│   ├── Assistant_Launch_Pack_v1.5-dev-monetization.zip
+│   ├── Assistant_Launch_Pack_v1.5-dev-packaging-ready.zip
+│   ├── Assistant_Launch_Pack_v1.5-prep_updated.zip
+│   ├── Assistant_Launch_Pack_v1.5-prep-complete.zip
+│   ├── Assistant_Launch_Pack_v1.5-prep.zip
+│   ├── audit
+│   │   ├── v1.5_final_audit.json
+│   │   ├── v1.5_final_audit.md
+│   │   ├── v1.5_prep_audit.json
+│   │   └── v1.5_prep_audit.md
+│   ├── handoffs
+│   │   └── v1.5_clarity_handoff.md
+│   ├── idea_log
+│   ├── tabs
+│   │   ├── tab_agent_dashboard_monetized.py
+│   │   ├── tab_agent_dashboard_updated.py
+│   │   ├── tab_agent_dashboard.py
+│   │   ├── tab_audit_viewer.py
+│   │   ├── tab_feedback_log.py
+│   │   └── tab_usage_log.py
+│   ├── v1.5_PlanningMatrix.md
+│   └── v1.5-final-checklist.md
+├── v1.6
+│   ├── audit
+│   ├── handoffs
+│   ├── idea_log
+│   │   └── v1.6_idea_log.md
+│   └── tabs
+├── webhook_alert.py
+└── zip_validator.py
+
+32 directories, 72 files

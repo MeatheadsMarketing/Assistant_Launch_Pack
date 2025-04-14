@@ -1,0 +1,44 @@
+{
+  "agents": [
+    {
+      "name": "Content Generator",
+      "tags": [
+        "writing",
+        "gpt",
+        "creative"
+      ],
+      "status": "idle",
+      "tier": "Free"
+    },
+    {
+      "name": "SEO Analyzer",
+      "tags": [
+        "marketing",
+        "seo",
+        "analysis"
+      ],
+      "status": "idle",
+      "tier": "Pro"
+    },
+    {
+      "name": "Email Optimizer",
+      "tags": [
+        "communication",
+        "conversion",
+        "gpt"
+      ],
+      "status": "running",
+      "tier": "Pro"
+    },
+    {
+      "name": "Market Researcher",
+      "tags": [
+        "research",
+        "competitive",
+        "gpt"
+      ],
+      "status": "idle",
+      "tier": "Enterprise"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "token_tracker.py",
+    "size": 1661,
+    "status": "\u2705",
+    "exec_status": "\u274c Exec Fail: Traceback (most recent call last):\n  File \"/mnt/data/audit_v13_pre_final/token_t"
+  },
+  {
+    "file": "background_runner.py",
+    "size": 1284,
+    "status": "\u2705",
+    "exec_status": "\u274c Timeout"
+  },
+  {
+    "file": "notion_sync.py",
+    "size": 1510,
+    "status": "\u2705",
+    "exec_status": "\u2705 Exec OK"
+  },
+  {
+    "file": "run_ui.py",
+    "size": 604,
+    "status": "\u2705",
+    "exec_status": "\u274c Exec Fail: Traceback (most recent call last):\n  File \"/mnt/data/audit_v13_pre_final/run_ui."
+  },
+  {
+    "file": "tabs/tab_feedback_log.py",
+    "size": 1120,
+    "status": "\u2705",
+    "exec_status": ""
+  },
+  {
+    "file": "tabs/tab_audit_viewer.py",
+    "size": 1297,
+    "status": "\u2705",
+    "exec_status": ""
+  },
+  {
+    "file": "tabs/tab_usage_log.py",
+    "size": 755,
+    "status": "\u2705",
+    "exec_status": ""
+  }
+]

@@ -1,0 +1,14 @@
+Version_Folder,Subfolder,Filename,Extension,Size,Status,Task,Next_Action
+root,root,README_MASTER.md,.md,385,✅ OK,Documentation / Version Notes,Ensure version summary + setup steps
+streamlit_smoothpath_bundle_v1.0,,README.md,.md,83,⚠️ Small file (83 bytes),Documentation / Version Notes,Ensure version summary + setup steps
+streamlit_smoothpath_bundle_v1.0,,run_ui.py,.py,56,⚠️ Small file (56 bytes),Streamlit Launcher,Verify UI boot and tab routing
+streamlit_smoothpath_bundle_v1.0,tabs,tab_sample.py,.py,66,⚠️ Small file (66 bytes),Streamlit Tab Module,Complete UI logic
+streamlit_shortcut_system_v1.0,,README.md,.md,81,⚠️ Small file (81 bytes),Documentation / Version Notes,Ensure version summary + setup steps
+streamlit_shortcut_system_v1.0,,run_ui.py,.py,56,⚠️ Small file (56 bytes),Streamlit Launcher,Verify UI boot and tab routing
+streamlit_shortcut_system_v1.0,tabs,tab_sample.py,.py,66,⚠️ Small file (66 bytes),Streamlit Tab Module,Complete UI logic
+streamlit_shortcut_system_v1.1,,README.md,.md,81,⚠️ Small file (81 bytes),Documentation / Version Notes,Ensure version summary + setup steps
+streamlit_shortcut_system_v1.1,,run_ui.py,.py,56,⚠️ Small file (56 bytes),Streamlit Launcher,Verify UI boot and tab routing
+streamlit_shortcut_system_v1.1,tabs,tab_sample.py,.py,66,⚠️ Small file (66 bytes),Streamlit Tab Module,Complete UI logic
+FileMind_ControlDeck_v1.2-prep,,README.md,.md,81,⚠️ Small file (81 bytes),Documentation / Version Notes,Ensure version summary + setup steps
+FileMind_ControlDeck_v1.2-prep,,run_ui.py,.py,56,⚠️ Small file (56 bytes),Streamlit Launcher,Verify UI boot and tab routing
+FileMind_ControlDeck_v1.2-prep,tabs,tab_sample.py,.py,66,⚠️ Small file (66 bytes),Streamlit Tab Module,Complete UI logic

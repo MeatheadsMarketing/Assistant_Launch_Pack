@@ -1,0 +1,30 @@
+{
+  "tiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "features": [
+        "Basic GPT tasks",
+        "Limited usage"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 29,
+      "features": [
+        "All assistants",
+        "Unlimited usage",
+        "Log tracking"
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "price": 99,
+      "features": [
+        "Multi-user access",
+        "Priority support",
+        "Custom integrations"
+      ]
+    }
+  ]
+}
